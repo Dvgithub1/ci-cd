@@ -155,6 +155,7 @@
 		        </executions>
 		</plugin>
         </plugins>
+	    <final Name>vprofile-v1.war<final Name>
     </build>
 </project>
 
